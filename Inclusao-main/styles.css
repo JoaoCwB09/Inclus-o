@@ -11,10 +11,13 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
+    background-image: url(img/desmumtz15.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .header-page {
-    background-color: #00437f;
+    background-color: #23145b;
 }
 
 .menu-acessibilidade {
